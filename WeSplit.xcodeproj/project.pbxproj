@@ -104,11 +104,12 @@
 			};
 			buildConfigurationList = 7FA942102A91051A00B4CDCC /* Build configuration list for PBXProject "WeSplit" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = en;
+			developmentRegion = "pt-BR";
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				"pt-BR",
 			);
 			mainGroup = 7FA9420C2A91051A00B4CDCC;
 			productRefGroup = 7FA942162A91051A00B4CDCC /* Products */;
